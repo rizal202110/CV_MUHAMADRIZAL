@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 10 Apr 2022 20:32:17 at http://burton.html.redbrush.eu +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://burton.html.redbrush.eu -O1 "C:\My Web Sites\rizal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:32:18	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/robots.txt (from primary/primary)
+20:33:49	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.eot (from burton.html.redbrush.eu/css/fonts.css)
+20:33:49	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.eot? (from burton.html.redbrush.eu/css/fonts.css)
+20:33:49	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.woff (from burton.html.redbrush.eu/css/fonts.css)
+20:33:49	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.ttf (from burton.html.redbrush.eu/css/fonts.css)
+20:33:50	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.eot (from burton.html.redbrush.eu/css/fonts.css)
+20:33:50	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.eot? (from burton.html.redbrush.eu/css/fonts.css)
+20:33:50	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.woff (from burton.html.redbrush.eu/css/fonts.css)
+20:33:50	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.ttf (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.eot (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.eot? (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.woff (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.ttf (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.eot (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.eot? (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.woff (from burton.html.redbrush.eu/css/fonts.css)
+20:33:52	Warning: 	Retry after error 502 (Bad Gateway) at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.ttf (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.eot (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.eot? (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.woff (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaRegular/FuturaRegular.ttf (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.eot (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.eot? (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.woff (from burton.html.redbrush.eu/css/fonts.css)
+20:33:53	Error: 	"Bad Gateway" (502) after 2 retries at link burton.html.redbrush.eu/fonts/FuturaBold/FuturaBold.ttf (from burton.html.redbrush.eu/css/fonts.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 36 seconds : 76 links scanned, 51 files written (2812675 bytes overall) [2757243 bytes received at 28721 bytes/sec], 97196 bytes transferred using HTTP compression in 3 files, ratio 20%, 6.3 requests per connection
+(9 errors, 16 warnings, 0 messages)
